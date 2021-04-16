@@ -1,4 +1,4 @@
-# study/react/redux_teidenjoho/のテストアプリ
+# study/react/redux_2nd/のテストアプリ
 
 ## 環境構築
 
